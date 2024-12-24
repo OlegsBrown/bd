@@ -1,0 +1,2 @@
+# bd
+Bakalaura darba materiāli
