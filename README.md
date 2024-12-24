@@ -1,2 +1,1 @@
-# bd
-Bakalaura darba materiāli
+# Bakalaura Darbs
