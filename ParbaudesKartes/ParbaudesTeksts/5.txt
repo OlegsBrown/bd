@@ -1,0 +1,39 @@
+Klienti	ir	cilvēki
+Darbs	piedāva	Apmācību
+Apmācību	var iziet	Kursos
+Kursos	var iegūt	Jaunās zinašanas
+daud staigāt	Ir	Veseligi
+Algas palielinājumu	dos	brīvo laiku
+Darbs	veido saliedetību ar	Kolēģiem
+Klienti	ir pateicīgi	Mani
+Eksperimentēt	ar	interesanti uzdevumi
+Pacietību	daļa no	Gandarijums par padarito
+Apmācību	nepiecešama	Karjerai
+Darbs	dod iespēju	Eksperimentēt
+Darbs	var sazinaties ar	Kolēģiem
+Klienti	rada	Pacietību
+Jaunās zinašanas	ļauj realizēt	sevi
+Darbs	apkalpo	Klienti
+Klienti	ir	Firmas
+neadekvāti	Iemāca risināt	Konfliktu situācijas
+Darbs	atnes	dažadību
+Klienti	prāsa padomu	Mani
+Atlaides	uz	dažadam prēcem
+Darbs	saistits ar	Gandarijums par padarito
+kusteties	ir	Veseligi
+Karjerai	saistīta ar	Algas palielinājumu
+Darbs	liek	daud staigāt
+Apmācību	var veicināt	Algas palielinājumu
+Apmācību	dod	Jaunās zinašanas
+Nestandartas risinajumi	atrisina	interesanti uzdevumi
+daud staigāt	būs	Skaistā figura
+Klienti	var būt	neadekvāti
+Kolēģiem	novērtē	Mani
+dažadību	tas pats	kaut kas jauns
+Darbs	liek	kusteties
+Kolēģiem	Atbalsta	Mani
+Kolēģiem	patik	Jokot
+Mani	nepatīk	Konfliktu situācijas
+Darbs	ir saistits ar	Nestandartas risinajumi
+Darbs	piedava	Atlaides
+Skaistā figura	uzlabo	Pašparliecību par sevi

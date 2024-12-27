@@ -1,0 +1,24 @@
+Mans darbs	ir	mazā pilsētā
+Mans darbs	saistits ar	Kokapstrādi
+Mans darbs	veido	Kolektīvs
+Mans darbs	dod	Pieredze
+Kolektīvs	ir otra	ģimene
+Mans darbs	rada	Patikāmo sajutu
+mazā pilsētā	ļauj dzīvot	Mierigāk
+Pieredze	justies	Parliecinats savā nozarē
+Mans darbs	Ir	Interesants
+Mans darbs	darīts ar	Rokam
+Kopēja stabilitāte	ļauj jūsties	Mierīgi
+Patikāmo sajutu	var dabut, kad darbojos ar	Rokam
+Kolektīvs	dažreiz iedzer ar	Mani
+Kokapstrādi	veido saikni ar	Daba
+Mans darbs	Ir	Smags
+Pieredze	sniedz	Prasmes
+Kolektīvs	atbalsta	Mani
+Mans darbs	var būt	vairāk apmāksāts
+Mans darbs	Daļa no	Kopēja stabilitāte
+Pieredze	dod iespēju palidzēt	Citiem cilvekiem
+ģimene	Mīl	Mani
+Mans darbs	palīdz attistit	Uzmanību
+Mans darbs	palīdz attistit	Precizitāte
+Mans darbs	varu justies tuvāk	Daba

@@ -1,0 +1,30 @@
+Mans darbs	saistīts ar	Dizainu
+Mans darbs	ļauj piedalīties	Projektos
+Mans darbs	ir	ideāls
+Mans darbs	notiek	Attalināti
+Mans darbs	atļauj	Eksperimintēt
+Dažadas kompānijam	tas pats	Klienti
+ideāls	jo ir	Apmaksāts
+Komandas darbs	sastāv no	Vadības
+Mans darbs	labi	Apmaksāts
+Mans darbs	notiek	Vide
+Izaicinājumus	sniedz	Lepnumu
+Projektos	varu	Eksperimintēt
+Mans darbs	piedāva	Izaicinājumus
+Vadības	novērtē	Mani
+Komandas darbs	sastāv no	Kolēgiem
+Vide	ir	Droša
+Mans darbs	iemācija palidzēt	Klienti
+Pieredzi	ar	Dažadas kompānijam
+Dažadas kompānijam	ir	Vietēji
+Mans darbs	dod	Emocionālo gandarijumu
+Mans darbs	dod	Pieredzi
+Eksperimintēt	varu realizēt	Savas idējas
+Kolēgiem	novērtē	Mani
+Vide	ir	Dinamiska
+Mans darbs	saistīts ar	Datorgrafiku
+Eksperimintēt	piedāva	Radoša brīvība
+Mans darbs	iemācīja	Plānot laiku
+Mans darbs	atkarīgs no	Komandas darbs
+Mans darbs	patīk	Klienti
+Dažadas kompānijam	ir	Starptautiskie

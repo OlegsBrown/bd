@@ -1,0 +1,34 @@
+Zināšanas pedagoģijā	Ir apakškopa	Zināšanas
+Projektu realizēšana	Ir apakškopa	Darba pienākumi
+Atpūta	Ar	Draugi
+Mācību materiālu sagatavošana	Prasa	Zināšanas zinātnes nozarē
+Tehnoloģiskas prasmes	Ir apakškopa	Prasmes
+Kolēģi citās organizācijās	Ir apakškopa	Kolēģi
+Atpūta	Ir daļa	Dzīve
+Pedagoģiskas prasmes	Ir apakškopa	Prasmes
+Darbs	Ir daļa	Dzīve
+Darba pienākumi	Ir daļa	Darbs
+Zinātniskā pētniecība	Ietver sadarbību ar	Kolēģi organizācijas ietvaros
+Komunikācijas prasmes	Ir apakškopa	Prasmes
+Ienākumi	Tiek izmantoti	Atpūta
+Kolēģi	Dažkārt kļūst par	Draugi
+Projektu realizēšana	Ļauj satikt/iepazīt	Kolēģi citās organizācijās
+Pedagoga darbs	Ir apakškopa	Darba pienākumi
+Darbs	Dod	Ienākumi
+Kolēģi organizācijas ietvaros	Ir apakškopa	Kolēģi
+Zināšanas zinātnes nozarē	Ir apakškopa	Zināšanas
+Zinātniskā pētniecība	Ir apakškopa	Darba pienākumi
+Zināšanas par organizācijas procedūrām un noteikumiem	Ir apakškopa	Zināšanas
+Nodarbību vadīšana	Ir daļa	Pedagoga darbs
+Pedagoga darbs	Ietver sadarbību ar	Kolēģi organizācijas ietvaros
+Zinātniskā pētniecība	Papildina	Zināšanas zinātnes nozarē
+Darbs	Ļauj satikt	Kolēģi
+Darbs	Nepieciešamas	Prasmes
+Laika plānošanas prasmes	Ir apakškopa	Prasmes
+Projektu realizēšana	Dod visvairāk	Ienākumi
+Zināšanu vērtēšana	Ir daļa	Pedagoga darbs
+Pedagoga darbs	Dod visvairāk	Profesionāls gandarījums
+Mācību materiālu sagatavošana	Ir daļa	Pedagoga darbs
+Draugi	Padara interesantu	Dzīve
+Darbs	Dod	Profesionāls gandarījums
+Darbs	Nepieciešamas	Zināšanas

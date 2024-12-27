@@ -1,0 +1,35 @@
+Cilvēkiem	no	Ārzemēs
+Darbs	jūtos nepiecešams	Latvijai
+Maiņas	piedāvā	noteikto brīvibu
+atalgojumu	sastāv no	Algas
+Izdienas pensiju	no	40 gadiem
+Darbs	varu realizēt un pielietot	Savas zināšanas
+Darbs	piedāvā	Izdienas pensiju
+Savas zināšanas	par	Robēžkontroli
+Dokumentiem	prasa	Dokumentu parbaudi
+Darbs	ar	Dokumentiem
+Maiņas	atļauj biežak būt	Mājās
+Savas zināšanas	par	Dokumentu parbaudi
+Darbs	rada	Sajūta
+Darbs	ir	Palīdzība
+Darbs	piedāvā	atalgojumu
+Komandējumi	piedāva	Piemaksas
+Piemaksas	par	bīstamību
+Darbs	patīk	Man
+Darbs	Notiek	Lidostā
+Cilvēkiem	no	Latvijas
+Darbs	ir	Stabīls
+Darbs	var komunicēt ar	Cilvēkiem
+Darbs	ir	Bistāms
+Darbs	patīk	Manai ģimenei
+Robēžkontroli	prasa	Precizitāti
+Palīdzība	nepiecešama	Latvijai
+Piemaksas	par	virsstundas
+Darbs	piedāvā	Izaicinājumus
+Darbs	ir	Komandējumi
+Darbs	ir	darbs komandā
+atalgojumu	sastāv no	Piemaksas
+Komandējumi	piedāva	Pieredzi
+Sajūta	piedalos	Svarīgā procesā
+atalgojumu	var but	Lielāks
+Darbs	notiek	Maiņas

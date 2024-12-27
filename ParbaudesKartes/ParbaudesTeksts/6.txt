@@ -1,0 +1,40 @@
+Zinašanas	atļauj	Radīt idējas
+Darbs	atkarīgs no	Nodokļii
+Kvalitāte	ir	Mana priotitāte
+Mācities	lai veidot	Kvalitāte
+Objektu nodošanas	dod	Motivāciju cītigi stradāt
+Darbs	iemaksa budžetā	Nodokļii
+Es	rupējos par	Komandas
+Darbs	izmanto	Dažadas pieejas
+Darbs	sastav no	Projekti
+Objektu nodošanas	ir	Galarezultats
+Darbs	saistits ar	Projektu vadīšānu
+Darbs	nodrošinā	Kvalitāte
+Galarezultats	ir	Pēļna
+Darbs	nepiecešams	Liels atbildības līmenis
+Mācities	par	Jaunajiem metodēm
+Es	sadarbojos ar	Klientiem
+Objektu nodošanas	veicina	Lēpnumu
+Es	sadarbojos ar	Arhitekti
+Es	izmantoju	Zinašanas
+Darbs	apvieno	Komandas
+Darbs	saistīts ar	Projektēšana
+Darbs	ir	Dinamisks
+Projektēšana	ļauj	Radīt idējas
+Disciplina	ļoti svarīga	Būvobjektā
+Buvniecības process	sniedz	Apmierinājumu
+Buvniecības process	notiek	Būvobjektā
+Es	sadarbojos ar	Komandas
+Darbs	saistīts ar	Buvniecības process
+Es	Daļa no	Darbs
+Apmierinājumu	pēc	Objektu nodošanas
+Darbs	ir ieguldijums	Nākotnē
+Arhitekti	labo	Kļūdas
+Es	Daļa no	Komandas
+Darbs	pirspied	Mācities
+Darbs	Apmāksa	Atpūtu
+Zinašanas	palīdz izlabot	Kļūdas
+Projektu vadīšānu	daļa no	Projekti
+Liels atbildības līmenis	palīdz attistīt	Disciplina
+Arhitekti	veido	Dizainu
+Es	piedalos	Projektu vadīšānu

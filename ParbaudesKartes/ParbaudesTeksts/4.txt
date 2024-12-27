@@ -1,0 +1,40 @@
+Ģimēnei	ļauj pavadīt laiku ar	Radinieki
+Klienti	veido	Kompānijas
+Mans darbs	ir daļa no	Brīvības sajuta
+Brīvības sajuta	ļauj biežak redzēt	Bērni
+Mans darbs	saistīts ar	Klienti
+Attālināti	Nepiesaista pie	Lokācija
+Atalgojumu	palīdz	Ģimēnei
+Bērni	ir	Meita
+IT jomu	ir	interesanta
+Klienti	noteic	prāsības
+Ģimēnei	sastavdaļa no	Brīvības sajuta
+Atalgojumu	dod	Motivāciju
+Mans darbs	ir vairāki	Amati
+Attālināti	dod	Elastību
+Bērni	ir	Dēls
+Komandā	atbalsta	viens otru
+IT jomu	ir daudz	Kompānijas
+Ģimēnei	ļauj pavadīt laiku ar	Bērni
+Mans darbs	saistīts ar	IT jomu
+Komandā	ir	Lieliskā
+Bonusi	ir	Finansiālie
+Komandā	daļa no	Vīde
+IT jomu	attistas	Visu laiku
+Mans darbs	nodrošina iespēju būt tuvāk	Ģimēnei
+Darbs mājās	piedāvā	Elastību
+Brīvības sajuta	nepiecešama	emocionālajam līdzsvaram
+Mans darbs	piedāvā	Bonusi
+Apmācību	var veicīnāt izaugsmei	Profesionālai
+Apmācību	ir	Apmaksāta
+Mans darbs	notiek	Attālināti
+Bērni	Svarīga daļa no	Ikdienu
+Mans darbs	maksā labu	Atalgojumu
+Mans darbs	piedāvā	Apmācību
+Mans darbs	ļauj darboties	Komandā
+Mans darbs	ir ļoti	Produktīvs
+Amati	var būt nesaistīti ar	Klienti
+Vīde	ir	Pozitivā
+Brīvības sajuta	palīdz planot	Ikdienu
+Bonusi	ir	Cita veida
+Attālināti	sastav no	Darbs mājās
