@@ -1,1 +1,3 @@
-# Bakalaura Darbs
+## KONCEPTU KARŠU LĪDZĪBAS NOTEIKŠANA
+
+## Oļegs Boļšakovs
