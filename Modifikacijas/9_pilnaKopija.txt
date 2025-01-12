@@ -1,0 +1,29 @@
+Atvaļinajums	varu atpusties	citas valstis
+Mans darbs	Nodrošina	Stabilu atalgojumu
+Komandejumus	varu apciemot	citas valstis
+Stabilu atalgojumu	palīdz uzturēt	Ģimeni
+Mans darbs	nodrošina	Apmacība
+Mans darbs	dod īlgu	Atvaļinajums
+Hobby	varu baudit ar	Kollegiem
+Drošibas sajuta	ir niepiecešama	Sabiedribai
+Mans darbs	nodrošina nepiecešamo	Datortehniku
+Mans darbs	ļauj pavadit	Kollegiem
+Apmacība	Ir	Ieguldijums nakotnē
+Mans darbs	Dod man	Pieredzi
+Stabilu atalgojumu	apmaksa	manas vajdazibas
+Mans darbs	Patik	Sabiedribai
+Naudas uzkrajumus	var apmaksat	manas vajdazibas
+Stabilu atalgojumu	rada	Prliecību par nakotni
+Mans darbs	Rada iespeju padzivot	Mežā
+Mans darbs	ir daļeji	Bistams
+Atvaļinajums	var jusities	Laimigam
+Pieredzi	varu padalities ar	Kollegiem
+Mans darbs	rada	Drošibas sajuta
+Mans darbs	Ļauj justies	Laimigam
+Stabilu atalgojumu	rada iespeju veidot	Naudas uzkrajumus
+Mans darbs	ļauj braukt	Komandejumus
+Mans darbs	patik arī	Kollegiem
+Apmacība	palielina	Pieredzi
+Pieredzi	var tikt izmantots ka	Ieguldijums nakotnē
+Mans darbs	Tas pats ka	Hobby
+Mans darbs	ir	Interesants
