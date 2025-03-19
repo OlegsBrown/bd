@@ -1,0 +1,55 @@
+Dažadi	var būt	laimīgi
+Alus	ir garšīgas	Valmiermuižas
+mazās	ir	Ludza
+darbu	var būt saistīts ar	Pļaut eglītes
+Meži	samazina	problēmas
+problēmas	jārīsina	nodokļi
+problēmas	jārīsina	bezdarbs
+lielās	ir	Rīga
+mazās	ir	Rezekne
+Latvija	ir	problēmas
+Alus	ir garšīgas	Aldaris
+Cilvēki	ir	Dažadi
+Latvija	pieder	Cilvēki
+Latvija	daudz	pilsētas
+Alus	negaršigs	Apinītis
+darbu	samazina	bezdarbs
+Latvija	ir	valdība
+Rezekne	atrodas	Latgale
+Latvija	svin	svētki
+Daugavpīls	atrodas	Latgale
+daba	sastav no	Ventas rumba
+Alus	negaršigs	Garais
+Homo	pieder	prezidents
+valdība	atkarīga no	korupcija
+atkarības	noved līdz	Cietums
+Latvija	ir skaista	daba
+problēmas	jārīsina	lielās cenas
+svētki	ir	Ligo
+darbu	samazina	problēmas
+pilsētas	var būt	lielās
+darbu	var būt saistīts ar	stadīt kokus
+svētki	ir	Jāņi
+valdība	atkarīga no	rietumiem
+Alus	ir garšīgas	Cesu
+Alus	ir garšīgas	Piebalgas
+Dažadi	var būt	Hetero
+Hetero	ir	normāli
+daba	sastav no	Ezeri
+problēmas	ir	mazas algas
+atkarības	ir	alkoholisms
+Latvija	ražo	Alus
+pilsētas	var būt	mazās
+Meži	samazina	bezdarbs
+daba	sastav no	Meži
+atkarības	ir	narkotiskas
+Ludza	atrodas	Latgale
+bezdarbs	seko	atkarības
+problēmas	jārīsina	atkarības
+Alus	izraisa	alkoholisms
+lielās	ir	Daugavpīls
+Alus	dzer	svētki
+Dažadi	var būt	Homo
+Meži	piedāvā	darbu
+Homo	ir	normāli
+problēmas	ir	bīstamas

@@ -1,0 +1,32 @@
+smaga	izraisa	depresiju
+cilvēki	aizbrauc	ārzemēs
+LATVIJA	skaista	daba
+dzīve	ir	smaga
+mana ģimene	dod	laimes sajūtu
+Meži	ar	ezeriem
+daba	var	atpūsties
+LATVIJA	ir maz	darba
+LATVIJA	ir dārgā	medicīna
+cilvēki	mēklē	darbu
+LATVIJA	ir mazās	algas
+smaga	izraisa	bezcērība
+mana ģimene	kopā ar mani no	laulības
+svētki	ir	Līgo
+LATVIJA	daļa no	cilvēki
+Dzimtēne	dzīvo	mana ģimene
+darbu	var atrast	ārzemēs
+atpūsties	daļa no	svētki
+mana ģimene	var pavādīt	atvaļinājumu
+dzīve	izraisa	bezcērība
+Meži	ar	upem
+Meži	ir svaigs	gaiss
+dzīve	izraisa	depresiju
+LATVIJA	ir mana	Dzimtēne
+LATVIJA	ir dārgā	dzīve
+LATVIJA	ir laba	medicīna
+ārzemēs	ir lielākas	algas
+daba	sastav no	Meži
+LATVIJA	ir daudz	Meži
+svētki	dod	laimes sajūtu
+mana ģimene	kopā ar mani no	bērnibas
+LATVIJA	ir valsts valoda	Latviešu

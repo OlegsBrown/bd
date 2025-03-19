@@ -1,0 +1,41 @@
+Pļava	Ir daļa	Daba
+Lībiskais dialekts	ir vieds	Latviešu valoda
+Bērzlapes	Ir apakškopa	Sēnes
+Latviešu tautas folklora	Apraksta	Daba
+Es	Runā	Lībiskais dialekts
+Mežs	ir daļa	Daba
+Latviešu tautas folklora	Apraksta	Sabiedrība
+Latvija	Raksturo	Māju sajūta
+Jāņi	Ir piemērs	Gadskārtu svētki
+Sabiedrība	Ir daļa	Latvija
+Latviešu tautas folklora	Apraksta	Raksturīgi ēdieni
+Latviešu tautas folklora	Izmanto	Latviešu valoda
+Baravikas	Ir apakškopa	Sēnes
+Latviešu valoda	Raksturo	Latvija
+Latviešu tautas folklora	Apraksta	Gadskārtu svētki
+Mana ģimene	garšo	Raksturīgi ēdieni
+Jūra	Ir daļa	Daba
+Ziemassvētki	Ir piemērs	Gadskārtu svētki
+Gailenes	Ir apakškopa	Sēnes
+Mana ģimene	Ir daļa	Sabiedrība
+Vidusdialekts	Ir veids	Latviešu valoda
+Rupjmaize	Ir apakškopa	Raksturīgi ēdieni
+Sēnes	Ir daļa	Daba
+Gadskārtu svētki	Raksturo	Latvija
+Es	Runā	Vidusdialekts
+Sklandrauši	Ir apakškopa	Raksturīgi ēdieni
+Svaigs gaiss	Raksturo	Latvija
+Mārtiņi	Ir piemērs	Gadskārtu svētki
+Daba	Ir daļa	Latvija
+Raksturīgi ēdieni	Raksturo	Latvija
+Sēnes	Aug	Mežs
+Dzīvnieki	Ir daļa	Daba
+Mani vecvecāki	ir daļa	Mana ģimene
+Lielā diena	Ir piemērs	Gadskārtu svētki
+Mana ģimene	Lasa	Sēnes
+Māju sajūta	Saistīta ar	Mana ģimene
+Augšzemnieku dialekts	ir veids	Latviešu valoda
+Sabiedrība	Lieto	Latviešu valoda
+Es	Ir daļa	Mana ģimene
+Mani vecvecāki	Runā	Augšzemnieku dialekts
+Pīrāgi	Ir apakškopa	Raksturīgi ēdieni
