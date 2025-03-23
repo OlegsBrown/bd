@@ -1,0 +1,33 @@
+Latvija	ir ātrs	Internets
+vēsture	ļoti	smāga
+Skaista daba	daudz	Dzivnieku daudzvedība
+Aglonas baznīca	pieder pie	Kultūra
+hokkejs	sava komanda	Dinamo Rīga
+Latvija	ir nacionālie	vēsture
+Latvija	ir labāka pozīcija	Tirzdniecībā
+Kultūra	daļa no	raksti
+Problēmas	ir saistīti ar	Narkotikas
+svētki	piemērām	Līgo
+Kultūra	daļa no	tautas apģērbs
+Origo bērni	lieto	Narkotikas
+Latvija	ir	hokkejs
+Latvija	ir	Aglonas baznīca
+svētki	piemērām	Latvijas dzimšanas diena
+Latvijas dzimšanas diena	svīn no	1918.gada
+alus	ļoti garšigs	Cesu premium
+vēsture	ļoti	interesanta
+Latvija	ir	Skaista daba
+alus	ļoti garšigs	Aldaris Ķiršu
+Latvija	ir garšigs	Kārums sieriņš
+Latvija	vizītkarte	Origo
+Kultūra	daļa no	Keramika
+Origo bērni	uzbrūk	Imigranti
+Latvija	ir	Problēmas
+Problēmas	ir saistīti ar	Iedzivotāju skaita samazināšana
+Problēmas	ir saistīti ar	Origo bērni
+Origo bērni	daļa no	Origo
+Latvija	vizītkarte	Brīvības piemeneklis
+Latvija	ir nacionālie	svētki
+Latvija	ir garšigs	alus
+Imigranti	piemērām	Indiaņi
+Problēmas	ir saistīti ar	Imigranti

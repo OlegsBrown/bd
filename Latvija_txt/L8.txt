@@ -1,0 +1,55 @@
+Sporta veidi	ir daudz	Ziedošas pļavas
+LATVIJA	attistīta	Lauksaimniecība
+upes	lieli	Gauja
+Basketbols	labākais spēletājs	Porziņģis
+LATVIJA	ir nacionālie	Mitoloģija
+Ziedošas pļavas	ir	Plaši lauku
+hokejs	labākais rezultāts	3.vieta PČ
+upes	lieli	Daugava
+LATVIJA	ir nacionālie	dzejoļi
+Iedzivotāji	mīl	Tevzeme
+Ziedošas pļavas	ir	zaļi
+ēdiens	ir	Rudzu maize
+Jūra	ar	Jūrmalas pludmales
+Rudzu maize	īpašība	Svaigi cepta
+Mitoloģija	ir	Latvijas dievi
+Dzintars	arī ir	Siera nosaukums
+dabas objekti	ir	upes
+dabas objekti	ir	Jūra
+LATVIJA	ir nacionālie	Pasakas
+Iedzivotāji	mīl	Brīvība
+LATVIJA	ir nacionālie	kvēloši ugunskuri
+Meži	ir	zaļi
+LATVIJA	ir svētki	Ligo
+piemenekļi	pieder pie	kulturās objektiem
+LATVIJA	pieder	Iedzivotāji
+dabas objekti	ir	ezeri
+LATVIJA	ir nacionālie	ēdiens
+LATVIJA	ir	galvaspilsēta
+LATVIJA	atrodas	Baltijā
+LATVIJA	ir nacionālie	varonis
+LATVIJA	ir nacionālie	Tautastērpi
+LATVIJA	ir nacionālais	Sporta veidi
+Sporta veidi	ir	hokejs
+Sporta veidi	ir	Basketbols
+Jūrmalas pludmales	var atrast	Dzintars
+Iedzivotāji	ir	lepni
+Baznīcas	pieder pie	kulturās objektiem
+Sporta veidi	ir daudz	fani
+LATVIJA	ir	Oskars premija
+Jūra	ar	viļņi
+LATVIJA	ir daudz vēcas	piemenekļi
+varonis	ir	Lāčplesis
+LATVIJA	ir daudz	fani
+Pasakas	ar	spēcīgiem vārdiem
+Oskars premija	par	"Straume"
+LATVIJA	ir daudz vēcas	Baznīcas
+galvaspilsēta	nosaukums ir	Rīga
+LATVIJA	ir daudz	Ziedošas pļavas
+upes	īpāšiba ir	dzidri
+LATVIJA	ir daudz	Meži
+LATVIJA	ir svētki	Jāņi
+LATVIJA	ir	dabas objekti
+Sporta veidi	ir daudz	Meži
+ezeri	īpāšiba ir	dzidri
+dzejoļi	ar	spēcīgiem vārdiem
