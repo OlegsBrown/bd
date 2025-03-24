@@ -1,0 +1,39 @@
+Mana Latvija	dzīvo	Es
+Daba un Kultūra	Izraisa	Emocijās
+Mana Latvija	ir	Mans mantojums
+Mana Latvija	dzīvo	Draugi
+Mana Latvija	rada	Emocijās
+Svētkus	ir	Valsts
+Armija	aizstāv	Mana Latvija
+Mana Latvija	dzīvo	Iedzivotāji
+Ezeri un purvi	atrodas	Latgalē
+Zemessardze	daļa	Armija
+Svaigu gaisu	atjauno spēkus pēc	Darba
+Staigāt	pēc	Darba
+Plaši meži	dod	Brīvības sajūta
+Brīvības sajūta	un	Mieru
+Kurzemē	tur	Piedzīmst vejš
+Latgalē	forši atpusties	Vasarā
+Es	un	Mana Ģimene
+Mana Latvija	ir	Daba un Kultūra
+Mana Latvija	ir	Ezeri un purvi
+Iedzivotāji	ir	Patriotiski
+Senču zeme	ar	Tradīcijas
+Tūristi	ir mūsu	Draugi
+Mana Ģimene	kopa svin	Svētkus
+Iedzivotāji	kopa svin	Svētkus
+Daba un Kultūra	piesaista	Tūristi
+Plaši meži	var	Staigāt
+Mana Latvija	ir	Plaši meži
+Emocijās	vairāk	Pozitīvas
+Senču zeme	ir arī	Mans mantojums
+Draugi	kopa svin	Svētkus
+Svētkus	ir	Dziesmu un dējas
+Patriotiski	nāk uz	Zemessardze
+Tūristi	ir mūsu	Sponsori
+Zemessardze	aizstāv	Mana Latvija
+Plaši meži	dod	Svaigu gaisu
+Daba un Kultūra	daļa no	Plaši meži
+Mana Latvija	ir	Senču zeme
+Ezeri un purvi	atrodas	Kurzemē
+Mana Latvija	daudz	Zaļas pļavas
