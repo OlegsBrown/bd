@@ -378,7 +378,7 @@ class TextMethods(Main_Checker):
         left_layer.addLayout(upload_layout)
 
         settings_layout = QtWidgets.QVBoxLayout()
-        mode_group = QGroupBox("Pārbaudes režīms")
+        mode_group = QGroupBox("Iestatījumi")
         mode_form = QFormLayout()
         self.mode_combo = QComboBox()
         self.mode_combo.addItems(self.mode_list)
@@ -396,7 +396,7 @@ class TextMethods(Main_Checker):
         mode_group.setLayout(mode_form)
         settings_layout.addWidget(mode_group)
 
-        weight_group = QGroupBox("Svara iestatījumi")
+        weight_group = QGroupBox("Svara Iestatījumi")
         weight_form = QFormLayout()
         self.weight_slider = QSlider(Qt.Horizontal)
         self.weight_slider.setRange(0, 100)
