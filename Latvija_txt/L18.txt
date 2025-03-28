@@ -1,0 +1,32 @@
+Vēsture	atrodas	Piemenekli
+Svētki	ir	Latvijas dziesmu un dēju svētki
+Vēsture	iesaistība	Karos
+Muzika	pilnā ar	Tautas dzismas
+Tauta	veido	Latvieši
+Daba	no	Meži
+Politika	izdod	Jauni likumi
+Notikumi	saistīti	Vēsture
+Daba	no	Ezeri
+Daba	no	Upes
+Latvija	daudz	Svētki
+Latviešu valoda	viena no	Vecākajām indoeiropiešu valodām
+Latvija	ir	Valoda
+Latvija	rada	Televīzija
+Latvija	notiek	Politika
+Latvija	ir garšīga	Partika
+Daba	no	Dzīvnieki
+Televīzija	ir	Kino
+Kino	ar	reklāma
+Latvija	ir garšīga	Edieni
+Valoda	mūsu ir	Latviešu valoda
+Piemenekli	atspoguļo	Notikumi
+Latvija	saistīta ar	Vēsture
+Politika	rakstā	Ziņas
+Svētki	ir	Līgo
+Latvija	ir	Daba
+Latvija	interesānta	Muzika
+Latvija	ir	Tauta
+Televīzija	stastā	Ziņas
+Tauta	veido	Krievi
+Tauta	veido	Ukraiņi
+Ziņas	ar	reklāma

@@ -1,0 +1,33 @@
+LIIGO	ir	SVĒTKI
+SIMBOLS	ir	LATVIJAS NACIONALA BIBLIOTEKA
+HOKEIS	ir komanda	DINAMO RIGA
+LATVIJA	ir	Lacplesis
+LATVIJA	ir lielvekals	ORIGO
+Mana pilsēta	ir	LUDZA
+Rigas Balzams	ražo	LATVIJA
+LATVIJA	ir	HOKEIS
+LUDZA	atrodas	LATVIJA
+Ediens	garšigas	Sprotes
+ORIGO berni	dzīvo	ORIGO
+RIGA	atrodas	LATVIJA
+Reinis	saistīts ar	ASPAZIJA
+JURMALA	atrodas	LATVIJA
+TikTok	ir	JURCHIK IMANTA
+TikTok	filmē	LATVIJA
+SIMBOLS	ir	LAtviešu valoda
+OLAS	sit	LIELDIENAS
+LATVIJA	svin	SVĒTKI
+Lacplesis	mūsu	SIMBOLS
+Reinis	dzivoja	LATVIJA
+LAIMA	ražo	LATVIJA
+JURCHIK IMANTA	filmē	LATVIJA
+LATVIJA	ir	SIMBOLS
+LATVIJA	bija	PSRS
+OZOLS	no	PARDAUGAVAS
+LATVIJA	atrodas	NATO
+LATVIJA	ir	Ediens
+LATVIJA	ir	LRSP
+SIMBOLS	ir	Latvijas Karogs
+DINAMO RIGA	spēlē	HOKEIS
+SIMBOLS	ir	OZOLS
+LIELDIENAS	ir	SVĒTKI

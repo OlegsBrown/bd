@@ -1,0 +1,41 @@
+Ainavas	ir	Ventas rumba
+Receptes	ietver	Pelēkie zirņi
+Nacionālie simboli	ir	Divpunktu mārīte
+Simboli	ir	Himna
+Apskates objekti	ir	Rundāles pīls
+L A T V I J A	Ir nacionālie	Receptes
+Nacionālie simboli	ir	Ozols
+Nacionālie simboli	ir	Liepa
+Receptes	ietver	Biešu zupa
+Simboli	ir	Ģeerbonis
+L A T V I J A	ir sava valoda	Latviešu valods
+Svētki	piemērām	Meteņi
+Nabadzība	saistīta ar	Augstas dzīvošanas izmaksas
+Apskates objekti	ir	Teirumnīku purvu taka
+L A T V I J A	ir valsts	Simboli
+Nacionālie simboli	ir	Brīvibas piemeneklis
+Svētki	piemērām	Jāņi un līgo
+Apskates objekti	ir	Brīvibas piemeneklis
+Nabadzība	saistīta ar	Izlgītības trūkums
+L A T V I J A	problēmas	Demogrāfiskās izmaiņas
+L A T V I J A	problēmas	Nabadzība
+L A T V I J A	mana	Dzimtās mājas
+L A T V I J A	Ir nacionālie	Ainavas
+Nacionālie simboli	ir	Baltā cielava
+Receptes	ietver	Rupjmaizes kārtojums
+Nabadzība	saistīta ar	Zemi ienākumi
+Ainavas	ir	Baltijas jūra
+Ainavas	ir	Gaujas krasti
+L A T V I J A	ir valsts	Svētki
+L A T V I J A	problēmas	Migrācija
+Nacionālie simboli	ir	Parastā pīpene
+L A T V I J A	problēmas	Nevienlīdzība
+Svētki	piemērām	Latvijas dziesmu un deju svētki
+Svētki	piemērām	Latvija neatkārības diena
+L A T V I J A	ir	Nacionālie simboli
+Simboli	ir	Karogs
+Pelēkie zirņi	ar	spēķi
+Receptes	ietver	Škvarku pīrāgi
+L A T V I J A	ir	Apskates objekti
+L A T V I J A	ir sava valoda	Latgaliešu
+Nabadzība	saistīta ar	Bezdarbs
