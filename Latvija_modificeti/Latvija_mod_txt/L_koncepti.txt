@@ -1,0 +1,41 @@
+Zaļie laukumi	Ir daļa	Ekosistēma
+Līvu valoda	ir vieds	Valsts valoda
+Lapas	Ir apakškopa	augļkermeni
+Mūsu nemateriālais kultūras mantojums	Apraksta	Ekosistēma
+Mana persona	Runā	Līvu valoda
+Zaļā birzē	ir daļa	Ekosistēma
+Mūsu nemateriālais kultūras mantojums	Apraksta	Kopiena
+Mana tēvzeme	Raksturo	Komforts
+Līgo	Ir piemērs	Valsts oficiālas brīvdienas
+Kopiena	Ir daļa	Mana tēvzeme
+Mūsu nemateriālais kultūras mantojums	Apraksta	Etniskā virtuve
+Mūsu nemateriālais kultūras mantojums	Izmanto	Valsts valoda
+Spurainā zvīnene	Ir apakškopa	augļkermeni
+Valsts valoda	Raksturo	Mana tēvzeme
+Mūsu nemateriālais kultūras mantojums	Apraksta	Valsts oficiālas brīvdienas
+Tuvinieki	garšo	Etniskā virtuve
+Rīgas līcis	Ir daļa	Ekosistēma
+Jauns gads	Ir piemērs	Valsts oficiālas brīvdienas
+Parastā sviestbeka	Ir apakškopa	augļkermeni
+Tuvinieki	Ir daļa	Kopiena
+Dažadu valodu paveidos	Ir veids	Valsts valoda
+Melnā ķiploķu maiize	Ir apakškopa	Etniskā virtuve
+augļkermeni	Ir daļa	Ekosistēma
+Valsts oficiālas brīvdienas	Raksturo	Mana tēvzeme
+Mana persona	Runā	Dažadu valodu paveidos
+Bulciņas	Ir apakškopa	Etniskā virtuve
+Labs klimāts	Raksturo	Mana tēvzeme
+Rudens svētki	Ir piemērs	Valsts oficiālas brīvdienas
+Ekosistēma	Ir daļa	Mana tēvzeme
+Etniskā virtuve	Raksturo	Mana tēvzeme
+augļkermeni	Aug	Zaļā birzē
+Dzīvās būtnes	Ir daļa	Ekosistēma
+Senčiem	ir daļa	Tuvinieki
+Klūsa piektdiena	Ir piemērs	Valsts oficiālas brīvdienas
+Tuvinieki	Lasa	augļkermeni
+Komforts	Saistīta ar	Tuvinieki
+Žemgaļu izloksne	ir veids	Valsts valoda
+Kopiena	Lieto	Valsts valoda
+Mana persona	Ir daļa	Tuvinieki
+Senčiem	Runā	Žemgaļu izloksne
+tortes	Ir apakškopa	Etniskā virtuve

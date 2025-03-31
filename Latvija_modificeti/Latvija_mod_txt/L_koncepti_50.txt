@@ -1,0 +1,41 @@
+Ainavas	ir	Ventas rumba
+Edieni	ietver	kartupēļi
+Kūltūras objekti	ir	ērces
+Simboli	ir	Himna
+Turistu vietas	ir	Ludzas pīls
+L A T V I J A	Ir nacionālie	Edieni
+Kūltūras objekti	ir	Bērzs
+Kūltūras objekti	ir	Priedes
+Edieni	ietver	kapostu ediens
+Simboli	ir	Ģeerbonis
+L A T V I J A	ir sava valoda	Latviešu valods
+Svinības dienas	piemērām	Meteņi
+ar naudu	saistīta ar	Lieli komunālie rēķini
+Turistu vietas	ir	Tērvētes dabas parks
+L A T V I J A	ir valsts	Simboli
+Kūltūras objekti	ir	Okupācijas muzējs
+Svinības dienas	piemērām	Saulgrieži
+Turistu vietas	ir	Okupācijas muzējs
+ar naudu	saistīta ar	daudz muļkus
+L A T V I J A	problēmas	Ar dzimstību
+L A T V I J A	problēmas	ar naudu
+L A T V I J A	mana	Dzimtās mājas
+L A T V I J A	Ir nacionālie	Ainavas
+Kūltūras objekti	ir	Baltā cielava
+Edieni	ietver	Rupjmaizes kārtojums
+ar naudu	saistīta ar	mazas algas
+Ainavas	ir	Piekrasts
+Ainavas	ir	Gaujas krasti
+L A T V I J A	ir valsts	Svinības dienas
+L A T V I J A	problēmas	Demogrāfiskās izmaiņas
+Kūltūras objekti	ir	Parastā pīpene
+L A T V I J A	problēmas	Nevienlīdzība
+Svinības dienas	piemērām	Latvijas dziesmu un deju svētki
+Svinības dienas	piemērām	Latvija neatkārības diena
+L A T V I J A	ir	Kūltūras objekti
+Simboli	ir	Karogs
+kartupēļi	ar	kotlētem
+Edieni	ietver	Pankūkas
+L A T V I J A	ir	Turistu vietas
+L A T V I J A	ir sava valoda	Latgaliešu
+ar naudu	saistīta ar	Bezdarbs
