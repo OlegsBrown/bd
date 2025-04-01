@@ -1,0 +1,39 @@
+Latvijas valsts	dzīvo	Es
+Daba un Kultūra	Izraisa	Sajūtas
+Latvijas valsts	ir	Mans mantojums
+Latvijas valsts	dzīvo	Draugi
+Latvijas valsts	rada	Sajūtas
+Svinamās dienas	ir	Valsts
+Bruņotie spēki	aizstāv	Latvijas valsts
+Latvijas valsts	dzīvo	Iemītnieki
+Ezeri un mitrāji	atrodas	Latgalē
+Zemessardze	daļa	Bruņotie spēki
+Svaigu gaisu	atjauno spēkus pēc	Strādāšanas
+Staigāt	pēc	Strādāšanas
+Plaši meži	dod	Atbrīvotība
+Atbrīvotība	un	Rāmums
+Kurzemē	tur	Rodas vējš
+Latgalē	forši atpusties	Vasarā
+Es	un	Mana Ģimene
+Latvijas valsts	ir	Daba un Kultūra
+Latvijas valsts	ir	Ezeri un mitrāji
+Iemītnieki	ir	Dzomteni mīloši
+Tēvzeme	ar	Ierašas
+Ieceļotāji	ir mūsu	Draugi
+Mana Ģimene	kopa svin	Svinamās dienas
+Iemītnieki	kopa svin	Svinamās dienas
+Daba un Kultūra	piesaista	Ieceļotāji
+Plaši meži	var	Staigāt
+Latvijas valsts	ir	Plaši meži
+Sajūtas	vairāk	Patīkamas
+Tēvzeme	ir arī	Mans mantojums
+Draugi	kopa svin	Svinamās dienas
+Svinamās dienas	ir	Dziesmu un dējas
+Dzomteni mīloši	nāk uz	Zemessardze
+Ieceļotāji	ir mūsu	Ieguldītāji
+Zemessardze	aizstāv	Latvijas valsts
+Plaši meži	dod	Svaigu gaisu
+Daba un Kultūra	daļa no	Plaši meži
+Latvijas valsts	ir	Tēvzeme
+Ezeri un mitrāji	atrodas	Kurzemē
+Latvijas valsts	daudz	Zaļas pļavas
