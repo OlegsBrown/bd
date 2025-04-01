@@ -1,0 +1,66 @@
+cilvēki	nav parliecīnāti par	Nakotne
+Ligo	dzer	Alus
+cilvēki	jāpalielīna	Dzimstība
+Nakotne	atkarīga no	Politika
+Nakotne	atkarīga no	Kariem
+Macīt arhitektūru	arzēmēs	Universitāte
+Jauniešus	brauc uz	Lielbritanija
+Darzeņiem	audze	darzā
+Jaunība	jautri	Pavadīju laiku
+mājās virtuve	gatavota no	augļiem
+Bezdarbs	kad	Grūti atrast darbu
+Negaiss	Ļoti	Specīgs
+Jaunība	paliek	atmiņā
+Silta vasara	ir	Negaiss
+Dziesmu	dzied	koris
+Darzeņiem	ir	Svaigi
+Lieldienas	sit	Olas
+Dējas	ir	Tautas
+Bezdarbs	izraisa	Alkoholismu
+Cafe	lai	atpusties
+Dējas	ir	Sporta
+augļiem	audze	darzā
+Laiku	piemerām	Jaunība
+Mazas pilsētas	ar	nelabveligie mikrarajoni
+problēmas	ar	Grūti atrast darbu
+problēmas	izraisa	Nabadzību
+Latvija	ir daudz	Cafe
+Mākslās skolā	atļava	Macīt arhitektūru
+Jauniešus	nav parliecīnāti par	Nakotne
+Latvija	ēd	Garšigs ēdiens
+problēmas	ar	mazas pensijas
+Latvija	ir	Svetki
+Latvija	ir dārga	Medicīna
+Silta vasara	ir	Vētra
+Garšigs ēdiens	ir	Laima
+Svetki	tādi kā	Ligo
+Svetki	ir	Dējas
+Bezdarbs	bremzē	Ekonomika
+Silta vasara	ir	Lietus
+Latvija	ir	Silta vasara
+Jauniešus	brauc uz	Eiropa
+mājās virtuve	gatavota no	Darzeņiem
+Alkoholismu	parasti	Mazas pilsētas
+Latvija	mācījos	Mākslās skolā
+Silta vasara	var daudz	Staigāt
+cilvēki	daudz	Jauniešus
+augļiem	ir	Svaigi
+Svetki	tādi kā	Ziemassvētki
+Ligo	ed	mājās virtuve
+Svetki	ir	Dziesmu
+Svetki	tādi kā	Jaunais gads
+Staigāt	ar	basam kajam
+Latvija	krīt	Dzimstība
+Jaunība	patika	Staigāt
+Latvija	ir	Bezdarbs
+Ekonomika	ir	problēmas
+Jaunība	biju	Laimīga
+Laima	nav vairs	Latvija
+cilvēki	kuri	Maz smaida
+Latvija	dzīvo	cilvēki
+Garšigs ēdiens	sastav no	mājās virtuve
+Latvija	pavadiju	Laiku
+Ligo	ed	siers
+Nakotne	atkarīga no	Ekonomika
+Svetki	tādi kā	Lieldienas
+Jauniešus	brauc uz	Rīgu
